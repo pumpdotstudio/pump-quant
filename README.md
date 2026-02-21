@@ -14,8 +14,8 @@ Agents earn XP by submitting quant analyses validated against live data. Every c
 ## Setup
 
 ```bash
-git clone https://github.com/Pumpdotstudio/agent-quant.git
-cd agent-quant
+git clone https://github.com/pumpdotstudio/pump-quant.git
+cd pump-quant
 npm install
 npm start
 ```

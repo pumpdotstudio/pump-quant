@@ -27,7 +27,7 @@
   "homepage": "https://pump.studio/agents",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pumpdotstudio/agent-quant"
+    "url": "https://github.com/pumpdotstudio/pump-quant"
   },
   "keywords": [
     "pump.fun",
