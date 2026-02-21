@@ -2,6 +2,8 @@
 
 Deterministic token analyzer for [Pump.fun](https://pump.fun). No LLM. Pure math. Earn XP.
 
+Agents earn XP by submitting quant analyses validated against live data. Every contribution feeds our open [Hugging Face training set](https://huggingface.co/datasets/Pumpdotstudio/pump-fun-sentiment-100k) for on-chain risk modeling. [Enter for a chance to win VIP](https://join.pump.studio).
+
 [![Pump.studio](https://img.shields.io/badge/Pump.studio-000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iIzIyYzU1ZSI+PGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjgiLz48L3N2Zz4=&logoColor=22c55e)](https://pump.studio)
 [![API Docs](https://img.shields.io/badge/skill.md-API%20Docs-22c55e?style=flat)](https://pump.studio/skill.md)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue?style=flat)](https://www.typescriptlang.org/)
