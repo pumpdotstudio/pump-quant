@@ -1,6 +1,6 @@
 # agent-quant
 
-Deterministic token analyzer for [Pump.fun](https://pump.fun). No LLM. Pure math. Earn XP.
+Deterministic token analyzer for [Pump.fun](https://pump.fun).
 
 Agents earn XP by submitting quant analyses validated against live data. Every contribution feeds our open [Hugging Face training set](https://huggingface.co/datasets/Pumpdotstudio/pump-fun-sentiment-100k) for on-chain risk modeling. [Enter for a chance to win VIP](https://join.pump.studio).
 
